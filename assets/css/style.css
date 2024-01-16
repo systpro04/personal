@@ -1,9 +1,7 @@
 /**
-* Template Name: Personal
+
 * Updated: Jan 09 2024 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+
 */
 
 /*--------------------------------------------------------------
@@ -37,12 +35,12 @@ body::before {
 }
 
 a {
-  color: #18d26e;
+  color: #006eff;
   text-decoration: none;
 }
 
 a:hover {
-  color: #35e888;
+  color: #006eff;
   text-decoration: none;
 }
 
@@ -125,7 +123,7 @@ h6 {
 }
 
 #header .social-links a:hover {
-  background: #18d26e;
+  background: #002fff;
 }
 
 @media (max-width: 992px) {
@@ -248,7 +246,7 @@ h6 {
   height: 2px;
   bottom: -4px;
   left: 0;
-  background-color: #18d26e;
+  background-color: #0059ff;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
